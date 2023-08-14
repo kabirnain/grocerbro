@@ -1,0 +1,159 @@
+﻿recipe,cuisine,servings,time_to_cook,difficulty,calories,ingredient,quantity,unit
+pie,American,8,45,Intermediate,380,apple,3,each
+pie,American,8,45,Intermediate,380,flour,1.5,cup
+pie,American,8,45,Intermediate,380,sugar,1,cup
+pie,American,8,45,Intermediate,380,butter,0.75,cup
+pie,American,8,45,Intermediate,380,cinnamon,1,tsp
+banana bread,American,12,60,Easy,230,banana,3,each
+banana bread,American,12,60,Easy,230,flour,1.5,cup
+banana bread,American,12,60,Easy,230,sugar,1,cup
+banana bread,American,12,60,Easy,230,butter,0.75,cup
+banana bread,American,12,60,Easy,230,eggs,2,each
+banana bread,American,12,60,Easy,230,baking powder,1,tsp
+banana bread,American,12,60,Easy,230,salt,0.5,tsp
+banana bread,American,12,60,Easy,230,vanilla,1,tsp
+banana bread,American,12,60,Easy,230,nutmeg,0.5,tsp
+noodle soup,American,6,60,Easy,240,onion,1,each
+noodle soup,American,6,60,Easy,240,celery,2,each
+noodle soup,American,6,60,Easy,240,broth,4,cup
+noodle soup,American,6,60,Easy,240,rice,0.5,cup
+tacos al pastor,Mexican,6,45,Intermediate,340,pork shoulder,2,lbs
+tacos al pastor,Mexican,6,45,Intermediate,340,pineapple,1,each
+tacos al pastor,Mexican,6,45,Intermediate,340,corn tortillas,12,each
+tacos al pastor,Mexican,6,45,Intermediate,340,onion,1,each
+tacos al pastor,Mexican,6,45,Intermediate,340,cilantro,1,bunch
+tacos al pastor,Mexican,6,45,Intermediate,340,lime,1,each
+chiles en nogada,Mexican,6,120,Difficult,480,poblano peppers,6,each
+chiles en nogada,Mexican,6,120,Difficult,480,ground pork,1,lb
+chiles en nogada,Mexican,6,120,Difficult,480,apple,1,each
+chiles en nogada,Mexican,6,120,Difficult,480,pear,1,each
+chiles en nogada,Mexican,6,120,Difficult,480,walnuts,1,cup
+chiles en nogada,Mexican,6,120,Difficult,480,almonds,1,cup
+chiles en nogada,Mexican,6,120,Difficult,480,milk,1,cup
+chiles en nogada,Mexican,6,120,Difficult,480,cream cheese,4,oz
+brownies,American,12,40,Easy,200,unsalted butter,0.5,cup
+brownies,American,12,40,Easy,200,sugar,1,cup
+brownies,American,12,40,Easy,200,eggs,2,each
+brownies,American,12,40,Easy,200,vanilla extract,1,tsp
+brownies,American,12,40,Easy,200,cocoa powder,0.5,cup
+brownies,American,12,40,Easy,200,flour,0.5,cup
+brownies,American,12,40,Easy,200,salt,0.3,tsp
+brownies,American,12,40,Easy,200,baking powder,0.3,tsp
+parmesan,Italian,4,60,Intermediate,400,flour,0.5,cup
+parmesan,Italian,4,60,Intermediate,400,eggs,2,each
+parmesan,Italian,4,60,Intermediate,400,bread crumbs,1.5,cup
+parmesan,Italian,4,60,Intermediate,400,salt,0.5,tsp
+parmesan,Italian,4,60,Intermediate,400,black pepper,0.5,tsp
+parmesan,Italian,4,60,Intermediate,400,marinara sauce,2,cup
+spaghetti bolognese,Italian,4,90,Intermediate,500,ground beef,1,lbs
+spaghetti bolognese,Italian,4,90,Intermediate,500,onion,1,each
+spaghetti bolognese,Italian,4,90,Intermediate,500,garlic cloves,3,each
+spaghetti bolognese,Italian,4,90,Intermediate,500,carrot,1,each
+spaghetti bolognese,Italian,4,90,Intermediate,500,celery,1,each
+spaghetti bolognese,Italian,4,90,Intermediate,500,crushed tomatoes,28,oz
+spaghetti bolognese,Italian,4,90,Intermediate,500,red wine,1,cup
+spaghetti bolognese,Italian,4,90,Intermediate,500,olive oil,2,tbsp
+spaghetti bolognese,Italian,4,90,Intermediate,500,bay leaf,2,each
+spaghetti bolognese,Italian,4,90,Intermediate,500,thyme,1,tsp
+pad thai,Thai,4,30,Intermediate,400,garlic cloves,2,each
+pad thai,Thai,4,30,Intermediate,400,scallions,3,each
+pad thai,Thai,4,30,Intermediate,400,bean sprouts,1,cup
+pad thai,Thai,4,30,Intermediate,400,peanuts,0.3,cup
+pad thai,Thai,4,30,Intermediate,400,soy sauce,2,tbsp
+pad thai,Thai,4,30,Intermediate,400,lime juice,0.3,cup
+pad thai,Thai,4,30,Intermediate,400,vegetable oil,2,tbsp
+pad thai,Thai,4,30,Intermediate,400,eggs,1,each
+pad thai,Thai,4,30,Intermediate,400,tamarind paste,1,tbsp
+pesto pasta,Italian,4,20,Easy,350,linguine,12,oz
+pesto pasta,Italian,4,20,Easy,350,basil leaves,2,cups
+pesto pasta,Italian,4,20,Easy,350,garlic cloves,2,each
+pesto pasta,Italian,4,20,Easy,350,parmesan cheese,0.5,cup
+pesto pasta,Italian,4,20,Easy,350,olive oil,0.5,cup
+pesto pasta,Italian,4,20,Easy,350,salt,0.3,tsp
+pesto pasta,Italian,4,20,Easy,350,black pepper,0.3,tsp
+teriyaki,Japanese,4,30,Easy,350,skinless thighs,4,each
+teriyaki,Japanese,4,30,Easy,350,soy sauce,0.5,cup
+teriyaki,Japanese,4,30,Easy,350,mirin,0.3,cup
+teriyaki,Japanese,4,30,Easy,350,sake,0.3,cup
+teriyaki,Japanese,4,30,Easy,350,honey,2,tbsp
+teriyaki,Japanese,4,30,Easy,350,garlic,1,tsp
+teriyaki,Japanese,4,30,Easy,350,ginger,1,tsp
+teriyaki,Japanese,4,30,Easy,350,salt,0.3,tsp
+teriyaki,Japanese,4,30,Easy,350,pepper,0.3,tsp
+shakshuka,Middle Eastern,4,30,Easy,300,olive oil,2,tbsp
+shakshuka,Middle Eastern,4,30,Easy,300,onion,1,each
+shakshuka,Middle Eastern,4,30,Easy,300,garlic cloves,3,each
+shakshuka,Middle Eastern,4,30,Easy,300,bell peppers,2,each
+shakshuka,Middle Eastern,4,30,Easy,300,tomatoes,4,each
+shakshuka,Middle Eastern,4,30,Easy,300,cumin,1,tsp
+shakshuka,Middle Eastern,4,30,Easy,300,paprika,1,tsp
+shakshuka,Middle Eastern,4,30,Easy,300,eggs,4,each
+shakshuka,Middle Eastern,4,30,Easy,300,feta cheese,0.5,cup
+shakshuka,Middle Eastern,4,30,Easy,300,parsley,0.3,cup
+ramen,Japanese,4,60,Intermediate,500,ramen noodles,4,packs
+ramen,Japanese,4,60,Intermediate,500,pork belly,0.5,lbs
+ramen,Japanese,4,60,Intermediate,500,green onion,0.5,cup
+ramen,Japanese,4,60,Intermediate,500,bean sprouts,1,cup
+ramen,Japanese,4,60,Intermediate,500,shiitake mushrooms,8,each
+ramen,Japanese,4,60,Intermediate,500,garlic cloves,2,each
+ramen,Japanese,4,60,Intermediate,500,ginger,1,tbsp
+ramen,Japanese,4,60,Intermediate,500,soy sauce,0.3,cup
+ramen,Japanese,4,60,Intermediate,500,miso paste,2,tbsp
+ramen,Japanese,4,60,Intermediate,500,broth,4,cups
+katsu,Japanese,4,40,Easy,400,flour,0.5,cup
+katsu,Japanese,4,40,Easy,400,eggs,2,each
+katsu,Japanese,4,40,Easy,400,panko bread crumbs,1.5,cup
+katsu,Japanese,4,40,Easy,400,salt,0.3,tsp
+katsu,Japanese,4,40,Easy,400,vegetable oil,0.5,cup
+katsu,Japanese,4,40,Easy,400,cabbage,0.3,head
+katsu,Japanese,4,40,Easy,400,tonkatsu sauce,0.3,cup
+beef stroganoff,Russian,4,60,Intermediate,500,beef sirloin,1,lbs
+beef stroganoff,Russian,4,60,Intermediate,500,onion,1,each
+beef stroganoff,Russian,4,60,Intermediate,500,button mushrooms,8,oz
+beef stroganoff,Russian,4,60,Intermediate,500,beef broth,2,cups
+beef stroganoff,Russian,4,60,Intermediate,500,sour cream,0.5,cup
+beef stroganoff,Russian,4,60,Intermediate,500,flour,2,tbsp
+beef stroganoff,Russian,4,60,Intermediate,500,dijon mustard,1,tbsp
+beef stroganoff,Russian,4,60,Intermediate,500,worcestershire sauce,1,tbsp
+beef stroganoff,Russian,4,60,Intermediate,500,salt,0.3,tsp
+beef stroganoff,Russian,4,60,Intermediate,500,black pepper,0.3,tsp
+gazpacho,Spanish,6,10,Easy,1200,tomatoes,6,each
+gazpacho,Spanish,6,10,Easy,1200,cucumber,1,each
+gazpacho,Spanish,6,10,Easy,1200,red bell pepper,1,each
+gazpacho,Spanish,6,10,Easy,1200,onion,1,each
+gazpacho,Spanish,6,10,Easy,1200,garlic cloves,2,each
+gazpacho,Spanish,6,10,Easy,1200,bread,1,slice
+gazpacho,Spanish,6,10,Easy,1200,olive oil,0.3,cup
+gazpacho,Spanish,6,10,Easy,1200,red wine vinegar,2,tbsp
+gazpacho,Spanish,6,10,Easy,1200,salt,0.5,tsp
+gazpacho,Spanish,6,10,Easy,1200,black pepper,0.3,tsp
+quiche Lorraine,French,8,60,Intermediate,400,all-purpose flour,1.5,cups
+quiche Lorraine,French,8,60,Intermediate,400,salt,0.3,tsp
+quiche Lorraine,French,8,60,Intermediate,400,butter,10,tbsp
+quiche Lorraine,French,8,60,Intermediate,400,bacon,6,slices
+quiche Lorraine,French,8,60,Intermediate,400,gruyere cheese,1.5,cups
+quiche Lorraine,French,8,60,Intermediate,400,eggs,4,each
+quiche Lorraine,French,8,60,Intermediate,400,milk,1.5,cups
+quiche Lorraine,French,8,60,Intermediate,400,heavy cream,0.5,cup
+quiche Lorraine,French,8,60,Intermediate,400,black pepper,0.3,tsp
+quiche Lorraine,French,8,60,Intermediate,400,nutmeg,0.3,tsp
+shawarma,Middle Eastern,4,60,Intermediate,500,thighs,1.5,lbs
+shawarma,Middle Eastern,4,60,Intermediate,500,plain yogurt,1,cup
+shawarma,Middle Eastern,4,60,Intermediate,500,lemon juice,0.3,cup
+shawarma,Middle Eastern,4,60,Intermediate,500,garlic cloves,4,each
+shawarma,Middle Eastern,4,60,Intermediate,500,cumin,1,tsp
+shawarma,Middle Eastern,4,60,Intermediate,500,paprika,1,tsp
+shawarma,Middle Eastern,4,60,Intermediate,500,turmeric,1,tsp
+shawarma,Middle Eastern,4,60,Intermediate,500,cayenne pepper,0.3,tsp
+shawarma,Middle Eastern,4,60,Intermediate,500,salt,0.5,tsp
+shawarma,Middle Eastern,4,60,Intermediate,500,black pepper,0.3,tsp
+shawarma,Middle Eastern,4,60,Intermediate,500,olive oil,2,tbsp
+adobo,Filipino,6,90,Intermediate,300,thighs,3,lbs
+adobo,Filipino,6,90,Intermediate,300,soy sauce,0.5,cup
+adobo,Filipino,6,90,Intermediate,300,vinegar,0.5,cup
+adobo,Filipino,6,90,Intermediate,300,garlic cloves,8,each
+adobo,Filipino,6,90,Intermediate,300,bay leaves,3,each
+adobo,Filipino,6,90,Intermediate,300,black peppercorns,1,tsp
+adobo,Filipino,6,90,Intermediate,300,brown sugar,1,tbsp
+adobo,Filipino,6,90,Intermediate,300,vegetable oil,2,tbsp
+adobo,Filipino,6,90,Intermediate,300,rice,3,cups
