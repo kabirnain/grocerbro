@@ -1,5 +1,7 @@
 # grocerbro
-Python-based chatbot with advanced keyword matching function
+
+
+This is a Python-based chatbot for a fictional grocery store with advanced functionalities using a limited natural language processing keyword matching function to respond to user queries. This was made as a group project with Arjun Guglani for our Data Analytics class at McGill.
 
 
 **Keyword Lists:**
